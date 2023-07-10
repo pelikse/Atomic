@@ -15,12 +15,12 @@
         <div class="title">
             <h1>Baking Soda</h1>
             <h1>Water</h1>
-            <h1>Sulfuric Acid</h1>
+            <h1>Hydrogen peroxide</h1>
         </div>
         <div class="content">
-            <h2>NaHCO3<br><br>General Fact :</h2>
-            <h2>H20<br><br>General Fact :</h2>
-            <h2>H2SO4<br><br>General Fact :</h2>
+            <h2>NaHCO3<br><p><br>General Fact : <br>Baking powder is the compound consisting of sodium, hydrogen, and carbonate ions. It is used in baking cakes and desserts.</p></h2>
+            <h2>H20<br><p><br>General Fact : <br>Water is everywhere on our planet. <br>    It is the reason we have an organic life on earth</p></h2>
+            <h2>H2O2<br><p><br>General Fact : <br>Mouth wash is an antiseptic solution which is used to reduce the antibacterial load in our oral cavity. Hydrogen Peroxide is used to kill bacteria, soothes bleeding gums, sore throat and as a teeth whitener</p></h2>
         </div>
         <div class="page">
             <a href="compound2.php"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">

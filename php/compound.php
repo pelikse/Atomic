@@ -16,9 +16,9 @@
             <h1>Ascorbic Acid</h1>
         </div>
         <div class="content">
-            <h2>CH3COOH<br><br>General Fact :</h2>
-            <h2>NH3<br><br>General Fact :</h2>
-            <h2>C6H8O6<br><br>General Fact :</h2>
+            <h2>CH3COOH<br><p><br>General Fact : <br>Acetic Acid <br>usually used as <br>Food preservative <br> and <br>Food additive</p></h2>
+            <h2>NH3<br><p><br>General Fact : <br>Ammonia <br> has a lot of function  <br>but <br>most of them is used as <br>Pesticide</p></h2>
+            <h2>C6H8O6<br><p><br>General Fact : <br>Ascorbic Acid <br> or <br>Vitamin C <br>is produced as <br>suplement to support body immune system</p></h2>
         </div>
         <div class="page">
         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">

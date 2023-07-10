@@ -11,15 +11,15 @@
             </svg></a>
         </div>
         <div class="title">
-            <h1>Acetic Acid</h1>
-            <h1>Ammonia</h1>
-            <h1>Ascorbic Acid</h1>
+            <h1>Soap</h1>
+            <h1>Salt</h1>
+            <h1>Sucrose</h1>
         </div>
         <div class="content">
-            <h2>CH3COOH<br><br>General Fact :</h2>
-            <h2>NH3<br><br>General Fact :</h2>
-            <h2>C6H8O6<br><br>General Fact :</h2>
-        </div>
+            <h2>RCOO-Na<br><p><br>General Fact : <br>Soap is used in daily life to clean ourself</p></h2>
+            <h2>NaCl<br><p><br>General Fact : <br>Salt can be found around kitchen and usually used as food preservative and as food seasoning</p></h2>
+            <h2>C12H22O11<br><p><br>General Fact : <br>Sucrose is the common sugar which again forms the major ingredient in baking and cooking.</p></h2>
+                </div>
         <div class="page">
             <a href="compound.php">
             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">

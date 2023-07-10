@@ -101,6 +101,11 @@ body{
     left: 0;
 }
 
+.content p{
+    color:black;
+    font-size: 1.1rem;
+}
+
 .page{
     display: flex;
     text-align: center;
